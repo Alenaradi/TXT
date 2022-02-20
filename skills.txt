@@ -1,0 +1,9 @@
+skill_1 Gitbash
+skill_2 Github
+skill_3 Postman
+skill_4 SQL
+skill_5 MObile testing
+skill_6 Android Studio
+skill_7 Fiddler
+skill_8 Jmetter
+skill_9 DEvtools
