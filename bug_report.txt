@@ -1,0 +1,21 @@
+Title: The incorrect message is displayed after entering invalid password
+
+Summary: The incorrect message is displayed if invalid password is entered
+
+OS: Windows 10x64
+Build 1.001
+
+STR:
+1. Open app
+2. Click 'Sign in" icon
+3. Enter valid email and invalid password
+4. Click "Sign In" button
+5.Pay attention to the error message
+
+AR: "You enter incorrect email" error message is displayed
+ screen
+
+ ER: "You enter incorrect email and/or incorrect password" error message should be displayed
+
+ Priority: low
+ Assigne" developer
